@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Teaching Assissant in the Department of Geophsyics at University of [Geological Sciences](https://uzgeouniver.uz/en)
+I am currently a Teaching Assissant in the Department of Geophsyics at [University of Geological Sciences](https://uzgeouniver.uz/en)
 
 A data-driven personal website
 ======
