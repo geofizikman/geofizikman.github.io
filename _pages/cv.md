@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Geophysics, National University of Uzbekistan, 2018
+* B.S. in Geophysics, National University of Uzbekistan, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Spring 2024: Teaching Assissant
+  * University of Geological Sciences
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2023: Teaching Assistant
+  * University of Geological Sciences
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
@@ -32,14 +31,13 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Computatuinal Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Julia, C
+* Cloud Computing
+  * AWS
+  * Azure
+* PyTorch, ObsPy, GIT, SQL, Docker
 
 Publications
 ======
