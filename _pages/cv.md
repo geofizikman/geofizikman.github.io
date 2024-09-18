@@ -16,28 +16,43 @@ Education
 
 Work experience
 ======
-* Spring 2024: Teaching Assissant
+* August 2023 - Present: Teaching Assissant
   * University of Geological Sciences
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Department of Geophysics
+  * Tashkent, Uzbekistan
 
-* Fall 2023: Teaching Assistant
-  * University of Geological Sciences
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2022 - September 2022: Researcher
+  * Pukyong National University
+  * Busan, South Korea
+  * Geo-ICT lab, Department of Energy Resources Engineering
+ 
+* March 2020 - February 2022, — Research Assistant
+  * Pukyong National University
+  * Geo-ICT lab, Department of Energy Resources Engineering
+  * Busan, South Korea
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2019 - September 2019: Research Assistant
+  * Pusan National University
+  * Environmental Hydrogeology lab
+  * Busan, South Korea
+ 
+* September 2018 - January 2019: Technical Geophysicist
+  * Geotechnical investigations, Fergana Geophysical Expedition
+  * Kokand, Uzbekistan
+
+* October 2014 - September 2015: Technical Assistant
+  * Institute of Seismology
+  * Tashkent, Uzbekistan
+
+* October 2013 - September 2014: Undergraduate Research Assistant
+  * National University of Uzbekistan
+  * Tashkent, Uzbekistan
+
   
 Computatuinal Skills
 ======
-* Python, Julia, C
-* Cloud Computing
-  * AWS
-  * Azure
-* PyTorch, ObsPy, GIT, SQL, Docker
+* Python
+* ObsPy
 
 Publications
 ======
